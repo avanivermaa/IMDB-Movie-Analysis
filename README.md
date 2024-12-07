@@ -1,6 +1,7 @@
 # IMDB-Movie-Analysis
 
-## 1. Cleaning the data:: This is one of the most important step to perform before moving forward with the analysis. Use your knowledge learned till now to do this. (Dropping columns, removing null values, etc.)
+## 1. Cleaning the data:: 
+This is one of the most important step to perform before moving forward with the analysis. Use your knowledge learned till now to do this. (Dropping columns, removing null values, etc.)
 Your task: Clean the data
 ## 2. Movies with highest profit: 
 Create a new column called profit which contains the difference of the two columns: gross and budget. Sort the column using the profit column as reference. Plot profit (y-axis) vs budget (x- axis) and observe the outliers using the appropriate chart type.
